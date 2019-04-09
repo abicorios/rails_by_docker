@@ -1,5 +1,5 @@
 # rails_by_docker
-It is the simple wey to develop the Ruby on Rails web-applicatins by the Docker.
+It is the simple wey to develop the Ruby on Rails web-applications by the Docker.
 # Requirements
 Install the Docker https://docs.docker.com/install/
 and do the postinstall steps https://docs.docker.com/install/linux/linux-postinstall/
